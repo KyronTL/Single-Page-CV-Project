@@ -32,8 +32,7 @@ Open index.html in your browser
 
 (Optional) Edit the file to include your own personal details
 
-📎 Project URL: roadmap.sh/projects/single-page-cv
-                https://github.com/KyronTL/Single-Page-CV-Project
+📎 Project URL: https://roadmap.sh/projects/single-page-cv
 
 👨‍💻 Author
 
